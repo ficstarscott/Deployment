@@ -10,9 +10,9 @@ using System.Windows.Forms;
 
 namespace Deployment
 {
-    public partial class frmNewProject : Form
+    public partial class Form1 : Form
     {
-        public frmNewProject()
+        public Form1()
         {
             InitializeComponent();
         }
